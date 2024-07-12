@@ -1,0 +1,32 @@
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: top;
+}
+
+#text
+{
+    position: absolute;
+    left: 50%;
+    text-align: center;
+}      
+
+.fir
+{
+    font-size: 80px;
+    color: aqua;
+}
+
+.tit
+{
+    font-size: 80px;
+    color: aqua;
+}
+
+.descrip
+{
+    font-size: 100px;
+    color: aqua;
+}
